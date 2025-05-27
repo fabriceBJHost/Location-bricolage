@@ -1,0 +1,39 @@
+/*  ato no misy style an ze components mifanaraka am Authentification, zany hoe Login sy Register
+    natao hoe Auth.module.css anarany satry refa asina .modulle am le fichier css de lasa unique daoly chaque classe
+
+    ohatra hoe classe .active am fichier Navbar.module.css tsy mitovy am classe .active am Auth.module.css
+    nefa ra juste hoe .active am navbar.css isy de ampitoviny am .active am Auth.css de anakiray am reo iany no alainy, nefa am le voloany io izy samy alainy daoly izy retra
+*/
+
+.icons {
+    color: rgba(0, 0, 0, 0.904);
+}
+
+.icon2{
+    color: rgba(0, 0, 0, 0.904);
+    cursor: pointer;
+    /* color: #1976d286; */
+}
+
+.paper {
+    padding: 3%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    width: 50%;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    /* border: solid 1px red; */
+}
+.title{
+    text-align: center;
+    color: #1976d2;
+    font-size: 50px;
+    width: 100%;
+}
+
+.active {
+    background-color: red;
+}

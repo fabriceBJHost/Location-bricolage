@@ -1,0 +1,40 @@
+users
+    - Nom et prénom
+    - Adresse ou localisation
+    - Photos de profils
+    mentor
+    - Nombre d’étudiants
+    - citation
+    - Nombre d’étudiant actuel
+    - Étoile ( note )
+    - Bouton [ Disponible ou pas ]
+    - Description ou Bio for etudiants
+    - Langue
+    -is_mentor
+    -situation (for etudiants)
+     • Étudiante
+     • Salarie
+     • Recherche d’emploi
+        - Paramétrage de modification profils
+        • Nom et Prénom
+        • Photos
+        • Description
+        • Adresse
+
+partage
+    - File
+    - Titre
+    - Categorie
+    - Filtre
+    - Langue
+
+Formation (mentor)
+    - File
+    - nom
+    - coeur
+    - Miniature
+    - is_premium
+    - Langue
+    - mentor_id
+    - share
+

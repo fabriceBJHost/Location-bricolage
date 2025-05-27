@@ -1,0 +1,11 @@
+.notSeen {
+    background-color: rgba(128, 128, 128, 0.5);
+    padding: 2%;
+    border-radius: 15px;
+}
+
+.seen {
+    background-color: rgba(128, 128, 128, 0.1);
+    padding: 2%;
+    border-radius: 15px;
+}

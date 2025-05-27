@@ -1,0 +1,12 @@
+.shadow {
+    background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    padding: 2%;
+    height: 450px;
+}
+
+.datagrid {
+    height: 375px!important;
+    border: solid 4px red;
+    /* color: rgba(128, 128, 128, 0.253); */
+}
